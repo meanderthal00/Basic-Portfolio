@@ -16,10 +16,10 @@ h1{
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 
-.flex-container{
+/*.flex-container{
     display: flex;
     align-items: flex-start;    
-}
+}*/
 
 ul {
     list-style-type:none;
@@ -33,12 +33,12 @@ ul {
  }
 
  #nav_box{
-    position: absolute;
+    position: relative;
     right: 0px; 
     background-color: white;
     width: 220px;
     padding: 10px;
-    border: 2px solid slategray; 
+   /* border: 2px solid slategray;*/ 
     margin: 0;
  }
 
@@ -81,7 +81,7 @@ ul {
 #bio{
         background-color:#ffffff;
         width: 570px;
-        height: 675px;
+        height: 725px;
         padding: 19px;
         border: 2px solid #dddddd;
         margin: 19px;

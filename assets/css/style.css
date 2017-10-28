@@ -4,6 +4,11 @@ header{
     border-bottom: solid #cccccc;
 }
 
+a{
+    color:darkgray;
+    text-decoration: none;
+}
+
 body{
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;     
     background-image:url("../images/tree_bark.png");
@@ -14,7 +19,7 @@ body{
 h1{ 
     color: #4aaaa5;
     font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 10;
+   
 }
 
 .flex-container{
@@ -36,10 +41,9 @@ ul {
  #nav_box{
     position: relative;
     right: -1650px; 
+    bottom:
     background-color: white;
-    width: 220px;
-    
-    padding-top: 60px;
+    width: 220px;   
     margin: 0;
  }
 
@@ -48,12 +52,11 @@ ul {
     color:white;
     position:relative;
     padding: 20px;
-    text-align: left;
     margin: 0;
-    top:0;
+    top:23px;
     bottom:10px;
     width: 300px;
-    height: 50px;
+    height: 80px;
     text-align: center;
 
 }
@@ -98,3 +101,6 @@ ul {
     border:2px solid lightslategray;
     margin: 9px;
    
+.footer {
+    background-color:#666666;
+}

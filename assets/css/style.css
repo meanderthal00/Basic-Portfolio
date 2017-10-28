@@ -40,7 +40,7 @@ ul {
 
  #nav_box{
     position: relative;
-    right: -1650px; 
+    right: -1200px; 
     background-color: white;
     width: 220px;   
     margin: 0;
@@ -89,7 +89,7 @@ ul {
         border: 2px solid #dddddd;
         margin: 19px;
         margin-left: auto;
-        margin-right: auto
+        margin-right: auto;
 }
 
 

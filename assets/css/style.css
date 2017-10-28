@@ -41,7 +41,6 @@ ul {
  #nav_box{
     position: relative;
     right: -1650px; 
-    bottom:
     background-color: white;
     width: 220px;   
     margin: 0;
@@ -100,7 +99,15 @@ ul {
     padding: 9px;
     border:2px solid lightslategray;
     margin: 9px;
-   
+}
+
 .footer {
-    background-color:#666666;
+    background-color: #666666;
+    border-top:5px;
+    border-top-color: #4aaaa5;
+    height:50px;
+    line-height: 50px;
+    font-size: 10px;
+    color:white;
+    text-align: center; 
 }

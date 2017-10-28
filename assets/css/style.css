@@ -94,11 +94,14 @@ ul {
 
 
 #connect{
+    position: relative;
+    left: 68.72%;
     background-color:white;
     width: 248px;
     padding: 9px;
-    border:2px solid lightslategray;
+    border:2px solid gainsboro;
     margin: 9px;
+    bottom: 786px;
 }
 
 .footer {
